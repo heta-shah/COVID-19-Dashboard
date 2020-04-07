@@ -10,6 +10,6 @@ Explanation:
 - When referring this code, download the code and data from kaggle (link at start of document or download the COVID_19_data from the repository), 
 open the downloaded code in jupyter notebook and change the file directory to your local directory. 
 
----You are now good to go!
+---Good Luck! Stay Safe! Stay Healthy!
 
 
