@@ -1,6 +1,7 @@
 # COVID-19-Dashboard
 
-Data: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+Data: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset  
+
 Tool used: Jupyter Notebook
 
 Explanation:
