@@ -13,3 +13,5 @@ open the downloaded code in jupyter notebook and change the file directory to yo
 ---Good Luck! Stay Safe! Stay Healthy!
 
 
+** For some reasons the graph is not visible in GitHub. You can view the graph once you download the code file along with data from Kaggle and change the data path. 
+
